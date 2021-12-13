@@ -1,0 +1,18 @@
+body{
+    background-color: #636e72;
+    overflow-x: hidden;
+}
+.slick img{
+    width: 100%;
+    
+}
+.slick-slide{
+    margin: 30px 15px;
+}
+.slick-dots li button::before,
+.slick-dots li.slick-active button::before{
+    color: #fff;
+}
+.slick-dost li button::before{
+    font-size: 15px;
+}
